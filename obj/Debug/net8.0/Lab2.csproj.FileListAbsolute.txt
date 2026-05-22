@@ -1,0 +1,14 @@
+/home/heil/csharp/Lab2/bin/Debug/net8.0/Lab2
+/home/heil/csharp/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/home/heil/csharp/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/home/heil/csharp/Lab2/bin/Debug/net8.0/Lab2.dll
+/home/heil/csharp/Lab2/bin/Debug/net8.0/Lab2.pdb
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.dll
+/home/heil/csharp/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.pdb
+/home/heil/csharp/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/home/heil/csharp/Lab2/obj/Debug/net8.0/ref/Lab2.dll
